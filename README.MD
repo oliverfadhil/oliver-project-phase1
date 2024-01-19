@@ -1,6 +1,6 @@
     #BILL HANDLER
-Ever wondered if you are getting the right quotation of the water and electricity bill and not paying extra? Look no further Bill Handler is here to help all you have to do is insert the digits recorded on the metre box and Bill Handler calculates the amount of money you are supposed to pay
-
+        Application that quickly calculates your electricity bill for you.
+        
         ##STRUCTURE
 The application is created using the following front end files:
     index.html-contains the html code that the web browser will process to create the webpage
